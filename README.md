@@ -2,7 +2,7 @@
 
 ## Features
 
-* [x] Make products recommendation according to algorithm of choice
+* [x] Make products recommendation according to algorithm of choice.
 
 <br>
 
