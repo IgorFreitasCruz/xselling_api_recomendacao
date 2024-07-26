@@ -1,0 +1,34 @@
+[
+    {
+        "name": "MSSQL_USER",
+        "value": ""
+    },
+    {
+        "name": "MSSQL_HOSTNAME",
+        "value": ""
+    },
+    {
+        "name": "MSSQL_PORT",
+        "value": ""
+    },
+    {
+        "name": "MSSQL_SA_PASSWORD",
+        "value": ""
+    },
+    {
+        "name": "APPLICATION_DB",
+        "value": ""
+    },
+    {
+        "name": "REDIS_HOST",
+        "value": ""
+    },
+    {
+        "name": "REDIS_PORT",
+        "value": ""
+    },
+    {
+        "name": "REDIS_PASSWORD",
+        "value": ""
+    }
+]

@@ -1,0 +1,359 @@
+,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction,zhangs_metric,antecedent_len,consequent_len
+0,frozenset({'13x4.5'}),frozenset({'2 VIAS'}),0.1,0.2,0.1,1.0,5.0,0.08,inf,0.8888888888888888,1,1
+1,frozenset({'2 VIAS'}),frozenset({'13x4.5'}),0.2,0.1,0.1,0.5,5.0,0.08,1.8,0.9999999999999998,1,1
+2,frozenset({'13x4.5'}),frozenset({'EQUIPO TRANSFUSAO'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+3,frozenset({'EQUIPO TRANSFUSAO'}),frozenset({'13x4.5'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+4,frozenset({'13x4.5'}),frozenset({'NYLON'}),0.1,0.5,0.1,1.0,2.0,0.05,inf,0.5555555555555555,1,1
+5,frozenset({'13x4.5'}),frozenset({'RAQ QUINCK'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+6,frozenset({'RAQ QUINCK'}),frozenset({'13x4.5'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+7,frozenset({'2 VIAS'}),frozenset({'EQUIPO TRANSFUSAO'}),0.2,0.1,0.1,0.5,5.0,0.08,1.8,0.9999999999999998,1,1
+8,frozenset({'EQUIPO TRANSFUSAO'}),frozenset({'2 VIAS'}),0.1,0.2,0.1,1.0,5.0,0.08,inf,0.8888888888888888,1,1
+9,frozenset({'NYLON'}),frozenset({'2 VIAS'}),0.5,0.2,0.2,0.4,2.0,0.1,1.3333333333333335,1.0,1,1
+10,frozenset({'2 VIAS'}),frozenset({'NYLON'}),0.2,0.5,0.2,1.0,2.0,0.1,inf,0.6249999999999999,1,1
+11,frozenset({'RAQ QUINCK'}),frozenset({'2 VIAS'}),0.1,0.2,0.1,1.0,5.0,0.08,inf,0.8888888888888888,1,1
+12,frozenset({'2 VIAS'}),frozenset({'RAQ QUINCK'}),0.2,0.1,0.1,0.5,5.0,0.08,1.8,0.9999999999999998,1,1
+13,frozenset({'2 VIAS'}),frozenset({'SINT'}),0.2,0.2,0.1,0.5,2.5,0.06,1.6,0.7499999999999998,1,1
+14,frozenset({'SINT'}),frozenset({'2 VIAS'}),0.2,0.2,0.1,0.5,2.5,0.06,1.6,0.7499999999999998,1,1
+15,frozenset({'25x7'}),frozenset({'25x8'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+16,frozenset({'25x8'}),frozenset({'25x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+17,frozenset({'25x7'}),frozenset({'30x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+18,frozenset({'30x7'}),frozenset({'25x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+19,frozenset({'25x7'}),frozenset({'40x12'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+20,frozenset({'40x12'}),frozenset({'25x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+21,frozenset({'PVC'}),frozenset({'25x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+22,frozenset({'25x7'}),frozenset({'PVC'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+23,frozenset({'25x8'}),frozenset({'30x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+24,frozenset({'30x7'}),frozenset({'25x8'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+25,frozenset({'25x8'}),frozenset({'40x12'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+26,frozenset({'40x12'}),frozenset({'25x8'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+27,frozenset({'PVC'}),frozenset({'25x8'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+28,frozenset({'25x8'}),frozenset({'PVC'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+29,frozenset({'30x7'}),frozenset({'40x12'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+30,frozenset({'40x12'}),frozenset({'30x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+31,frozenset({'PVC'}),frozenset({'30x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+32,frozenset({'30x7'}),frozenset({'PVC'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+33,frozenset({'PVC'}),frozenset({'40x12'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+34,frozenset({'40x12'}),frozenset({'PVC'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+35,frozenset({'TEF'}),frozenset({'CATETERES SIMPLES'}),0.2,0.3,0.2,1.0,3.3333333333333335,0.14,inf,0.8749999999999999,1,1
+36,frozenset({'CATETERES SIMPLES'}),frozenset({'TEF'}),0.3,0.2,0.2,0.6666666666666667,3.3333333333333335,0.14,2.400000000000001,1.0000000000000002,1,1
+37,frozenset({'EQUIPO TRANSFUSAO'}),frozenset({'NYLON'}),0.1,0.5,0.1,1.0,2.0,0.05,inf,0.5555555555555555,1,1
+38,frozenset({'RAQ QUINCK'}),frozenset({'EQUIPO TRANSFUSAO'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+39,frozenset({'EQUIPO TRANSFUSAO'}),frozenset({'RAQ QUINCK'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,1
+40,frozenset({'RAQ QUINCK'}),frozenset({'NYLON'}),0.1,0.5,0.1,1.0,2.0,0.05,inf,0.5555555555555555,1,1
+41,frozenset({'SEDA'}),frozenset({'NYLON'}),0.1,0.5,0.1,1.0,2.0,0.05,inf,0.5555555555555555,1,1
+42,frozenset({'NYLON'}),frozenset({'SINT'}),0.5,0.2,0.2,0.4,2.0,0.1,1.3333333333333335,1.0,1,1
+43,frozenset({'SINT'}),frozenset({'NYLON'}),0.2,0.5,0.2,1.0,2.0,0.1,inf,0.6249999999999999,1,1
+44,"frozenset({'13x4.5', '2 VIAS'})",frozenset({'EQUIPO TRANSFUSAO'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+45,"frozenset({'13x4.5', 'EQUIPO TRANSFUSAO'})",frozenset({'2 VIAS'}),0.1,0.2,0.1,1.0,5.0,0.08,inf,0.8888888888888888,2,1
+46,"frozenset({'2 VIAS', 'EQUIPO TRANSFUSAO'})",frozenset({'13x4.5'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+47,frozenset({'13x4.5'}),"frozenset({'2 VIAS', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+48,frozenset({'2 VIAS'}),"frozenset({'13x4.5', 'EQUIPO TRANSFUSAO'})",0.2,0.1,0.1,0.5,5.0,0.08,1.8,0.9999999999999998,1,2
+49,frozenset({'EQUIPO TRANSFUSAO'}),"frozenset({'13x4.5', '2 VIAS'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+50,"frozenset({'13x4.5', '2 VIAS'})",frozenset({'NYLON'}),0.1,0.5,0.1,1.0,2.0,0.05,inf,0.5555555555555555,2,1
+51,"frozenset({'13x4.5', 'NYLON'})",frozenset({'2 VIAS'}),0.1,0.2,0.1,1.0,5.0,0.08,inf,0.8888888888888888,2,1
+52,"frozenset({'NYLON', '2 VIAS'})",frozenset({'13x4.5'}),0.2,0.1,0.1,0.5,5.0,0.08,1.8,0.9999999999999998,2,1
+53,frozenset({'13x4.5'}),"frozenset({'NYLON', '2 VIAS'})",0.1,0.2,0.1,1.0,5.0,0.08,inf,0.8888888888888888,1,2
+54,frozenset({'2 VIAS'}),"frozenset({'13x4.5', 'NYLON'})",0.2,0.1,0.1,0.5,5.0,0.08,1.8,0.9999999999999998,1,2
+55,"frozenset({'13x4.5', '2 VIAS'})",frozenset({'RAQ QUINCK'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+56,"frozenset({'13x4.5', 'RAQ QUINCK'})",frozenset({'2 VIAS'}),0.1,0.2,0.1,1.0,5.0,0.08,inf,0.8888888888888888,2,1
+57,"frozenset({'RAQ QUINCK', '2 VIAS'})",frozenset({'13x4.5'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+58,frozenset({'13x4.5'}),"frozenset({'RAQ QUINCK', '2 VIAS'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+59,frozenset({'2 VIAS'}),"frozenset({'13x4.5', 'RAQ QUINCK'})",0.2,0.1,0.1,0.5,5.0,0.08,1.8,0.9999999999999998,1,2
+60,frozenset({'RAQ QUINCK'}),"frozenset({'13x4.5', '2 VIAS'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+61,"frozenset({'13x4.5', 'EQUIPO TRANSFUSAO'})",frozenset({'NYLON'}),0.1,0.5,0.1,1.0,2.0,0.05,inf,0.5555555555555555,2,1
+62,"frozenset({'NYLON', 'EQUIPO TRANSFUSAO'})",frozenset({'13x4.5'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+63,"frozenset({'13x4.5', 'NYLON'})",frozenset({'EQUIPO TRANSFUSAO'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+64,frozenset({'EQUIPO TRANSFUSAO'}),"frozenset({'13x4.5', 'NYLON'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+65,frozenset({'13x4.5'}),"frozenset({'NYLON', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+66,"frozenset({'13x4.5', 'RAQ QUINCK'})",frozenset({'EQUIPO TRANSFUSAO'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+67,"frozenset({'13x4.5', 'EQUIPO TRANSFUSAO'})",frozenset({'RAQ QUINCK'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+68,"frozenset({'RAQ QUINCK', 'EQUIPO TRANSFUSAO'})",frozenset({'13x4.5'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+69,frozenset({'13x4.5'}),"frozenset({'RAQ QUINCK', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+70,frozenset({'RAQ QUINCK'}),"frozenset({'13x4.5', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+71,frozenset({'EQUIPO TRANSFUSAO'}),"frozenset({'13x4.5', 'RAQ QUINCK'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+72,"frozenset({'13x4.5', 'RAQ QUINCK'})",frozenset({'NYLON'}),0.1,0.5,0.1,1.0,2.0,0.05,inf,0.5555555555555555,2,1
+73,"frozenset({'13x4.5', 'NYLON'})",frozenset({'RAQ QUINCK'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+74,"frozenset({'RAQ QUINCK', 'NYLON'})",frozenset({'13x4.5'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+75,frozenset({'13x4.5'}),"frozenset({'RAQ QUINCK', 'NYLON'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+76,frozenset({'RAQ QUINCK'}),"frozenset({'13x4.5', 'NYLON'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+77,"frozenset({'NYLON', '2 VIAS'})",frozenset({'EQUIPO TRANSFUSAO'}),0.2,0.1,0.1,0.5,5.0,0.08,1.8,0.9999999999999998,2,1
+78,"frozenset({'NYLON', 'EQUIPO TRANSFUSAO'})",frozenset({'2 VIAS'}),0.1,0.2,0.1,1.0,5.0,0.08,inf,0.8888888888888888,2,1
+79,"frozenset({'2 VIAS', 'EQUIPO TRANSFUSAO'})",frozenset({'NYLON'}),0.1,0.5,0.1,1.0,2.0,0.05,inf,0.5555555555555555,2,1
+80,frozenset({'2 VIAS'}),"frozenset({'NYLON', 'EQUIPO TRANSFUSAO'})",0.2,0.1,0.1,0.5,5.0,0.08,1.8,0.9999999999999998,1,2
+81,frozenset({'EQUIPO TRANSFUSAO'}),"frozenset({'NYLON', '2 VIAS'})",0.1,0.2,0.1,1.0,5.0,0.08,inf,0.8888888888888888,1,2
+82,"frozenset({'RAQ QUINCK', '2 VIAS'})",frozenset({'EQUIPO TRANSFUSAO'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+83,"frozenset({'RAQ QUINCK', 'EQUIPO TRANSFUSAO'})",frozenset({'2 VIAS'}),0.1,0.2,0.1,1.0,5.0,0.08,inf,0.8888888888888888,2,1
+84,"frozenset({'2 VIAS', 'EQUIPO TRANSFUSAO'})",frozenset({'RAQ QUINCK'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+85,frozenset({'RAQ QUINCK'}),"frozenset({'2 VIAS', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+86,frozenset({'2 VIAS'}),"frozenset({'RAQ QUINCK', 'EQUIPO TRANSFUSAO'})",0.2,0.1,0.1,0.5,5.0,0.08,1.8,0.9999999999999998,1,2
+87,frozenset({'EQUIPO TRANSFUSAO'}),"frozenset({'RAQ QUINCK', '2 VIAS'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+88,"frozenset({'RAQ QUINCK', '2 VIAS'})",frozenset({'NYLON'}),0.1,0.5,0.1,1.0,2.0,0.05,inf,0.5555555555555555,2,1
+89,"frozenset({'RAQ QUINCK', 'NYLON'})",frozenset({'2 VIAS'}),0.1,0.2,0.1,1.0,5.0,0.08,inf,0.8888888888888888,2,1
+90,"frozenset({'NYLON', '2 VIAS'})",frozenset({'RAQ QUINCK'}),0.2,0.1,0.1,0.5,5.0,0.08,1.8,0.9999999999999998,2,1
+91,frozenset({'RAQ QUINCK'}),"frozenset({'NYLON', '2 VIAS'})",0.1,0.2,0.1,1.0,5.0,0.08,inf,0.8888888888888888,1,2
+92,frozenset({'2 VIAS'}),"frozenset({'RAQ QUINCK', 'NYLON'})",0.2,0.1,0.1,0.5,5.0,0.08,1.8,0.9999999999999998,1,2
+93,"frozenset({'NYLON', '2 VIAS'})",frozenset({'SINT'}),0.2,0.2,0.1,0.5,2.5,0.06,1.6,0.7499999999999998,2,1
+94,"frozenset({'NYLON', 'SINT'})",frozenset({'2 VIAS'}),0.2,0.2,0.1,0.5,2.5,0.06,1.6,0.7499999999999998,2,1
+95,"frozenset({'2 VIAS', 'SINT'})",frozenset({'NYLON'}),0.1,0.5,0.1,1.0,2.0,0.05,inf,0.5555555555555555,2,1
+96,frozenset({'2 VIAS'}),"frozenset({'NYLON', 'SINT'})",0.2,0.2,0.1,0.5,2.5,0.06,1.6,0.7499999999999998,1,2
+97,frozenset({'SINT'}),"frozenset({'NYLON', '2 VIAS'})",0.2,0.2,0.1,0.5,2.5,0.06,1.6,0.7499999999999998,1,2
+98,"frozenset({'25x7', '25x8'})",frozenset({'30x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+99,"frozenset({'25x7', '30x7'})",frozenset({'25x8'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+100,"frozenset({'25x8', '30x7'})",frozenset({'25x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+101,frozenset({'25x7'}),"frozenset({'25x8', '30x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+102,frozenset({'25x8'}),"frozenset({'25x7', '30x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+103,frozenset({'30x7'}),"frozenset({'25x7', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+104,"frozenset({'25x7', '25x8'})",frozenset({'40x12'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+105,"frozenset({'25x7', '40x12'})",frozenset({'25x8'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+106,"frozenset({'25x8', '40x12'})",frozenset({'25x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+107,frozenset({'25x7'}),"frozenset({'25x8', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+108,frozenset({'25x8'}),"frozenset({'25x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+109,frozenset({'40x12'}),"frozenset({'25x7', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+110,"frozenset({'PVC', '25x7'})",frozenset({'25x8'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+111,"frozenset({'PVC', '25x8'})",frozenset({'25x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+112,"frozenset({'25x7', '25x8'})",frozenset({'PVC'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+113,frozenset({'PVC'}),"frozenset({'25x7', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+114,frozenset({'25x7'}),"frozenset({'PVC', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+115,frozenset({'25x8'}),"frozenset({'PVC', '25x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+116,"frozenset({'25x7', '30x7'})",frozenset({'40x12'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+117,"frozenset({'25x7', '40x12'})",frozenset({'30x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+118,"frozenset({'30x7', '40x12'})",frozenset({'25x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+119,frozenset({'25x7'}),"frozenset({'30x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+120,frozenset({'30x7'}),"frozenset({'25x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+121,frozenset({'40x12'}),"frozenset({'25x7', '30x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+122,"frozenset({'PVC', '25x7'})",frozenset({'30x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+123,"frozenset({'PVC', '30x7'})",frozenset({'25x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+124,"frozenset({'25x7', '30x7'})",frozenset({'PVC'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+125,frozenset({'PVC'}),"frozenset({'25x7', '30x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+126,frozenset({'25x7'}),"frozenset({'PVC', '30x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+127,frozenset({'30x7'}),"frozenset({'PVC', '25x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+128,"frozenset({'PVC', '25x7'})",frozenset({'40x12'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+129,"frozenset({'PVC', '40x12'})",frozenset({'25x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+130,"frozenset({'25x7', '40x12'})",frozenset({'PVC'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+131,frozenset({'PVC'}),"frozenset({'25x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+132,frozenset({'25x7'}),"frozenset({'PVC', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+133,frozenset({'40x12'}),"frozenset({'PVC', '25x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+134,"frozenset({'25x8', '30x7'})",frozenset({'40x12'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+135,"frozenset({'25x8', '40x12'})",frozenset({'30x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+136,"frozenset({'30x7', '40x12'})",frozenset({'25x8'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+137,frozenset({'25x8'}),"frozenset({'30x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+138,frozenset({'30x7'}),"frozenset({'25x8', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+139,frozenset({'40x12'}),"frozenset({'25x8', '30x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+140,"frozenset({'PVC', '25x8'})",frozenset({'30x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+141,"frozenset({'PVC', '30x7'})",frozenset({'25x8'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+142,"frozenset({'25x8', '30x7'})",frozenset({'PVC'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+143,frozenset({'PVC'}),"frozenset({'25x8', '30x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+144,frozenset({'25x8'}),"frozenset({'PVC', '30x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+145,frozenset({'30x7'}),"frozenset({'PVC', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+146,"frozenset({'PVC', '25x8'})",frozenset({'40x12'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+147,"frozenset({'PVC', '40x12'})",frozenset({'25x8'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+148,"frozenset({'25x8', '40x12'})",frozenset({'PVC'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+149,frozenset({'PVC'}),"frozenset({'25x8', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+150,frozenset({'25x8'}),"frozenset({'PVC', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+151,frozenset({'40x12'}),"frozenset({'PVC', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+152,"frozenset({'PVC', '30x7'})",frozenset({'40x12'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+153,"frozenset({'PVC', '40x12'})",frozenset({'30x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+154,"frozenset({'30x7', '40x12'})",frozenset({'PVC'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+155,frozenset({'PVC'}),"frozenset({'30x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+156,frozenset({'30x7'}),"frozenset({'PVC', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+157,frozenset({'40x12'}),"frozenset({'PVC', '30x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+158,"frozenset({'NYLON', 'RAQ QUINCK'})",frozenset({'EQUIPO TRANSFUSAO'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+159,"frozenset({'NYLON', 'EQUIPO TRANSFUSAO'})",frozenset({'RAQ QUINCK'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,1
+160,"frozenset({'RAQ QUINCK', 'EQUIPO TRANSFUSAO'})",frozenset({'NYLON'}),0.1,0.5,0.1,1.0,2.0,0.05,inf,0.5555555555555555,2,1
+161,frozenset({'RAQ QUINCK'}),"frozenset({'NYLON', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+162,frozenset({'EQUIPO TRANSFUSAO'}),"frozenset({'NYLON', 'RAQ QUINCK'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,2
+163,"frozenset({'13x4.5', '2 VIAS', 'EQUIPO TRANSFUSAO'})",frozenset({'NYLON'}),0.1,0.5,0.1,1.0,2.0,0.05,inf,0.5555555555555555,3,1
+164,"frozenset({'13x4.5', 'NYLON', 'EQUIPO TRANSFUSAO'})",frozenset({'2 VIAS'}),0.1,0.2,0.1,1.0,5.0,0.08,inf,0.8888888888888888,3,1
+165,"frozenset({'NYLON', '2 VIAS', 'EQUIPO TRANSFUSAO'})",frozenset({'13x4.5'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+166,"frozenset({'13x4.5', '2 VIAS', 'NYLON'})",frozenset({'EQUIPO TRANSFUSAO'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+167,"frozenset({'13x4.5', 'EQUIPO TRANSFUSAO'})","frozenset({'NYLON', '2 VIAS'})",0.1,0.2,0.1,1.0,5.0,0.08,inf,0.8888888888888888,2,2
+168,"frozenset({'2 VIAS', 'EQUIPO TRANSFUSAO'})","frozenset({'13x4.5', 'NYLON'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+169,"frozenset({'NYLON', 'EQUIPO TRANSFUSAO'})","frozenset({'13x4.5', '2 VIAS'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+170,"frozenset({'13x4.5', '2 VIAS'})","frozenset({'NYLON', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+171,"frozenset({'13x4.5', 'NYLON'})","frozenset({'2 VIAS', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+172,"frozenset({'NYLON', '2 VIAS'})","frozenset({'13x4.5', 'EQUIPO TRANSFUSAO'})",0.2,0.1,0.1,0.5,5.0,0.08,1.8,0.9999999999999998,2,2
+173,frozenset({'EQUIPO TRANSFUSAO'}),"frozenset({'13x4.5', '2 VIAS', 'NYLON'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+174,frozenset({'13x4.5'}),"frozenset({'NYLON', '2 VIAS', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+175,frozenset({'2 VIAS'}),"frozenset({'13x4.5', 'NYLON', 'EQUIPO TRANSFUSAO'})",0.2,0.1,0.1,0.5,5.0,0.08,1.8,0.9999999999999998,1,3
+176,"frozenset({'13x4.5', '2 VIAS', 'RAQ QUINCK'})",frozenset({'EQUIPO TRANSFUSAO'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+177,"frozenset({'13x4.5', '2 VIAS', 'EQUIPO TRANSFUSAO'})",frozenset({'RAQ QUINCK'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+178,"frozenset({'13x4.5', 'RAQ QUINCK', 'EQUIPO TRANSFUSAO'})",frozenset({'2 VIAS'}),0.1,0.2,0.1,1.0,5.0,0.08,inf,0.8888888888888888,3,1
+179,"frozenset({'RAQ QUINCK', '2 VIAS', 'EQUIPO TRANSFUSAO'})",frozenset({'13x4.5'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+180,"frozenset({'13x4.5', '2 VIAS'})","frozenset({'RAQ QUINCK', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+181,"frozenset({'13x4.5', 'RAQ QUINCK'})","frozenset({'2 VIAS', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+182,"frozenset({'13x4.5', 'EQUIPO TRANSFUSAO'})","frozenset({'RAQ QUINCK', '2 VIAS'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+183,"frozenset({'RAQ QUINCK', '2 VIAS'})","frozenset({'13x4.5', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+184,"frozenset({'2 VIAS', 'EQUIPO TRANSFUSAO'})","frozenset({'13x4.5', 'RAQ QUINCK'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+185,"frozenset({'RAQ QUINCK', 'EQUIPO TRANSFUSAO'})","frozenset({'13x4.5', '2 VIAS'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+186,frozenset({'13x4.5'}),"frozenset({'RAQ QUINCK', '2 VIAS', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+187,frozenset({'2 VIAS'}),"frozenset({'13x4.5', 'RAQ QUINCK', 'EQUIPO TRANSFUSAO'})",0.2,0.1,0.1,0.5,5.0,0.08,1.8,0.9999999999999998,1,3
+188,frozenset({'RAQ QUINCK'}),"frozenset({'13x4.5', '2 VIAS', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+189,frozenset({'EQUIPO TRANSFUSAO'}),"frozenset({'13x4.5', '2 VIAS', 'RAQ QUINCK'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+190,"frozenset({'13x4.5', '2 VIAS', 'RAQ QUINCK'})",frozenset({'NYLON'}),0.1,0.5,0.1,1.0,2.0,0.05,inf,0.5555555555555555,3,1
+191,"frozenset({'13x4.5', '2 VIAS', 'NYLON'})",frozenset({'RAQ QUINCK'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+192,"frozenset({'13x4.5', 'RAQ QUINCK', 'NYLON'})",frozenset({'2 VIAS'}),0.1,0.2,0.1,1.0,5.0,0.08,inf,0.8888888888888888,3,1
+193,"frozenset({'RAQ QUINCK', '2 VIAS', 'NYLON'})",frozenset({'13x4.5'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+194,"frozenset({'13x4.5', '2 VIAS'})","frozenset({'RAQ QUINCK', 'NYLON'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+195,"frozenset({'13x4.5', 'RAQ QUINCK'})","frozenset({'NYLON', '2 VIAS'})",0.1,0.2,0.1,1.0,5.0,0.08,inf,0.8888888888888888,2,2
+196,"frozenset({'13x4.5', 'NYLON'})","frozenset({'RAQ QUINCK', '2 VIAS'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+197,"frozenset({'RAQ QUINCK', '2 VIAS'})","frozenset({'13x4.5', 'NYLON'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+198,"frozenset({'NYLON', '2 VIAS'})","frozenset({'13x4.5', 'RAQ QUINCK'})",0.2,0.1,0.1,0.5,5.0,0.08,1.8,0.9999999999999998,2,2
+199,"frozenset({'RAQ QUINCK', 'NYLON'})","frozenset({'13x4.5', '2 VIAS'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+200,frozenset({'13x4.5'}),"frozenset({'RAQ QUINCK', '2 VIAS', 'NYLON'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+201,frozenset({'2 VIAS'}),"frozenset({'13x4.5', 'RAQ QUINCK', 'NYLON'})",0.2,0.1,0.1,0.5,5.0,0.08,1.8,0.9999999999999998,1,3
+202,frozenset({'RAQ QUINCK'}),"frozenset({'13x4.5', '2 VIAS', 'NYLON'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+203,"frozenset({'13x4.5', 'RAQ QUINCK', 'EQUIPO TRANSFUSAO'})",frozenset({'NYLON'}),0.1,0.5,0.1,1.0,2.0,0.05,inf,0.5555555555555555,3,1
+204,"frozenset({'13x4.5', 'NYLON', 'EQUIPO TRANSFUSAO'})",frozenset({'RAQ QUINCK'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+205,"frozenset({'RAQ QUINCK', 'NYLON', 'EQUIPO TRANSFUSAO'})",frozenset({'13x4.5'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+206,"frozenset({'13x4.5', 'RAQ QUINCK', 'NYLON'})",frozenset({'EQUIPO TRANSFUSAO'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+207,"frozenset({'13x4.5', 'EQUIPO TRANSFUSAO'})","frozenset({'RAQ QUINCK', 'NYLON'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+208,"frozenset({'RAQ QUINCK', 'EQUIPO TRANSFUSAO'})","frozenset({'13x4.5', 'NYLON'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+209,"frozenset({'NYLON', 'EQUIPO TRANSFUSAO'})","frozenset({'13x4.5', 'RAQ QUINCK'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+210,"frozenset({'13x4.5', 'RAQ QUINCK'})","frozenset({'NYLON', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+211,"frozenset({'13x4.5', 'NYLON'})","frozenset({'RAQ QUINCK', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+212,"frozenset({'RAQ QUINCK', 'NYLON'})","frozenset({'13x4.5', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+213,frozenset({'EQUIPO TRANSFUSAO'}),"frozenset({'13x4.5', 'RAQ QUINCK', 'NYLON'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+214,frozenset({'13x4.5'}),"frozenset({'RAQ QUINCK', 'NYLON', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+215,frozenset({'RAQ QUINCK'}),"frozenset({'13x4.5', 'NYLON', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+216,"frozenset({'RAQ QUINCK', '2 VIAS', 'EQUIPO TRANSFUSAO'})",frozenset({'NYLON'}),0.1,0.5,0.1,1.0,2.0,0.05,inf,0.5555555555555555,3,1
+217,"frozenset({'RAQ QUINCK', 'NYLON', 'EQUIPO TRANSFUSAO'})",frozenset({'2 VIAS'}),0.1,0.2,0.1,1.0,5.0,0.08,inf,0.8888888888888888,3,1
+218,"frozenset({'NYLON', '2 VIAS', 'EQUIPO TRANSFUSAO'})",frozenset({'RAQ QUINCK'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+219,"frozenset({'RAQ QUINCK', '2 VIAS', 'NYLON'})",frozenset({'EQUIPO TRANSFUSAO'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+220,"frozenset({'RAQ QUINCK', 'EQUIPO TRANSFUSAO'})","frozenset({'NYLON', '2 VIAS'})",0.1,0.2,0.1,1.0,5.0,0.08,inf,0.8888888888888888,2,2
+221,"frozenset({'2 VIAS', 'EQUIPO TRANSFUSAO'})","frozenset({'RAQ QUINCK', 'NYLON'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+222,"frozenset({'NYLON', 'EQUIPO TRANSFUSAO'})","frozenset({'RAQ QUINCK', '2 VIAS'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+223,"frozenset({'RAQ QUINCK', '2 VIAS'})","frozenset({'NYLON', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+224,"frozenset({'RAQ QUINCK', 'NYLON'})","frozenset({'2 VIAS', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+225,"frozenset({'NYLON', '2 VIAS'})","frozenset({'RAQ QUINCK', 'EQUIPO TRANSFUSAO'})",0.2,0.1,0.1,0.5,5.0,0.08,1.8,0.9999999999999998,2,2
+226,frozenset({'EQUIPO TRANSFUSAO'}),"frozenset({'RAQ QUINCK', '2 VIAS', 'NYLON'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+227,frozenset({'RAQ QUINCK'}),"frozenset({'NYLON', '2 VIAS', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+228,frozenset({'2 VIAS'}),"frozenset({'RAQ QUINCK', 'NYLON', 'EQUIPO TRANSFUSAO'})",0.2,0.1,0.1,0.5,5.0,0.08,1.8,0.9999999999999998,1,3
+229,"frozenset({'25x7', '25x8', '30x7'})",frozenset({'40x12'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+230,"frozenset({'25x7', '25x8', '40x12'})",frozenset({'30x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+231,"frozenset({'25x7', '30x7', '40x12'})",frozenset({'25x8'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+232,"frozenset({'25x8', '30x7', '40x12'})",frozenset({'25x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+233,"frozenset({'25x7', '25x8'})","frozenset({'30x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+234,"frozenset({'25x7', '30x7'})","frozenset({'25x8', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+235,"frozenset({'25x7', '40x12'})","frozenset({'25x8', '30x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+236,"frozenset({'25x8', '30x7'})","frozenset({'25x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+237,"frozenset({'25x8', '40x12'})","frozenset({'25x7', '30x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+238,"frozenset({'30x7', '40x12'})","frozenset({'25x7', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+239,frozenset({'25x7'}),"frozenset({'25x8', '30x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+240,frozenset({'25x8'}),"frozenset({'25x7', '30x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+241,frozenset({'30x7'}),"frozenset({'25x7', '25x8', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+242,frozenset({'40x12'}),"frozenset({'25x7', '25x8', '30x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+243,"frozenset({'PVC', '25x7', '30x7'})",frozenset({'25x8'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+244,"frozenset({'PVC', '25x7', '25x8'})",frozenset({'30x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+245,"frozenset({'PVC', '30x7', '25x8'})",frozenset({'25x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+246,"frozenset({'25x7', '30x7', '25x8'})",frozenset({'PVC'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+247,"frozenset({'PVC', '25x7'})","frozenset({'30x7', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+248,"frozenset({'PVC', '30x7'})","frozenset({'25x7', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+249,"frozenset({'PVC', '25x8'})","frozenset({'25x7', '30x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+250,"frozenset({'25x7', '30x7'})","frozenset({'PVC', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+251,"frozenset({'25x7', '25x8'})","frozenset({'PVC', '30x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+252,"frozenset({'30x7', '25x8'})","frozenset({'PVC', '25x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+253,frozenset({'PVC'}),"frozenset({'25x7', '30x7', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+254,frozenset({'25x7'}),"frozenset({'PVC', '30x7', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+255,frozenset({'30x7'}),"frozenset({'PVC', '25x7', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+256,frozenset({'25x8'}),"frozenset({'PVC', '25x7', '30x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+257,"frozenset({'PVC', '25x7', '40x12'})",frozenset({'25x8'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+258,"frozenset({'PVC', '25x7', '25x8'})",frozenset({'40x12'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+259,"frozenset({'PVC', '25x8', '40x12'})",frozenset({'25x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+260,"frozenset({'25x7', '25x8', '40x12'})",frozenset({'PVC'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+261,"frozenset({'PVC', '25x7'})","frozenset({'25x8', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+262,"frozenset({'PVC', '40x12'})","frozenset({'25x7', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+263,"frozenset({'PVC', '25x8'})","frozenset({'25x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+264,"frozenset({'25x7', '40x12'})","frozenset({'PVC', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+265,"frozenset({'25x7', '25x8'})","frozenset({'PVC', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+266,"frozenset({'25x8', '40x12'})","frozenset({'PVC', '25x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+267,frozenset({'PVC'}),"frozenset({'25x7', '25x8', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+268,frozenset({'25x7'}),"frozenset({'PVC', '25x8', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+269,frozenset({'40x12'}),"frozenset({'PVC', '25x7', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+270,frozenset({'25x8'}),"frozenset({'PVC', '25x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+271,"frozenset({'PVC', '25x7', '30x7'})",frozenset({'40x12'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+272,"frozenset({'PVC', '25x7', '40x12'})",frozenset({'30x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+273,"frozenset({'PVC', '30x7', '40x12'})",frozenset({'25x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+274,"frozenset({'25x7', '30x7', '40x12'})",frozenset({'PVC'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+275,"frozenset({'PVC', '25x7'})","frozenset({'30x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+276,"frozenset({'PVC', '30x7'})","frozenset({'25x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+277,"frozenset({'PVC', '40x12'})","frozenset({'25x7', '30x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+278,"frozenset({'25x7', '30x7'})","frozenset({'PVC', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+279,"frozenset({'25x7', '40x12'})","frozenset({'PVC', '30x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+280,"frozenset({'30x7', '40x12'})","frozenset({'PVC', '25x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+281,frozenset({'PVC'}),"frozenset({'25x7', '30x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+282,frozenset({'25x7'}),"frozenset({'PVC', '30x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+283,frozenset({'30x7'}),"frozenset({'PVC', '25x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+284,frozenset({'40x12'}),"frozenset({'PVC', '25x7', '30x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+285,"frozenset({'PVC', '25x8', '30x7'})",frozenset({'40x12'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+286,"frozenset({'PVC', '25x8', '40x12'})",frozenset({'30x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+287,"frozenset({'PVC', '30x7', '40x12'})",frozenset({'25x8'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+288,"frozenset({'25x8', '30x7', '40x12'})",frozenset({'PVC'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,1
+289,"frozenset({'PVC', '25x8'})","frozenset({'30x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+290,"frozenset({'PVC', '30x7'})","frozenset({'25x8', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+291,"frozenset({'PVC', '40x12'})","frozenset({'25x8', '30x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+292,"frozenset({'25x8', '30x7'})","frozenset({'PVC', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+293,"frozenset({'25x8', '40x12'})","frozenset({'PVC', '30x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+294,"frozenset({'30x7', '40x12'})","frozenset({'PVC', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,2
+295,frozenset({'PVC'}),"frozenset({'25x8', '30x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+296,frozenset({'25x8'}),"frozenset({'PVC', '30x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+297,frozenset({'30x7'}),"frozenset({'PVC', '25x8', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+298,frozenset({'40x12'}),"frozenset({'PVC', '25x8', '30x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,3
+299,"frozenset({'EQUIPO TRANSFUSAO', 'RAQ QUINCK', '2 VIAS', 'NYLON'})",frozenset({'13x4.5'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,4,1
+300,"frozenset({'RAQ QUINCK', '2 VIAS', '13x4.5', 'NYLON'})",frozenset({'EQUIPO TRANSFUSAO'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,4,1
+301,"frozenset({'RAQ QUINCK', '2 VIAS', '13x4.5', 'EQUIPO TRANSFUSAO'})",frozenset({'NYLON'}),0.1,0.5,0.1,1.0,2.0,0.05,inf,0.5555555555555555,4,1
+302,"frozenset({'EQUIPO TRANSFUSAO', 'RAQ QUINCK', '13x4.5', 'NYLON'})",frozenset({'2 VIAS'}),0.1,0.2,0.1,1.0,5.0,0.08,inf,0.8888888888888888,4,1
+303,"frozenset({'NYLON', '2 VIAS', '13x4.5', 'EQUIPO TRANSFUSAO'})",frozenset({'RAQ QUINCK'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,4,1
+304,"frozenset({'RAQ QUINCK', '2 VIAS', 'NYLON'})","frozenset({'13x4.5', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,2
+305,"frozenset({'RAQ QUINCK', '2 VIAS', 'EQUIPO TRANSFUSAO'})","frozenset({'NYLON', '13x4.5'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,2
+306,"frozenset({'RAQ QUINCK', '2 VIAS', '13x4.5'})","frozenset({'NYLON', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,2
+307,"frozenset({'EQUIPO TRANSFUSAO', 'RAQ QUINCK', 'NYLON'})","frozenset({'13x4.5', '2 VIAS'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,2
+308,"frozenset({'RAQ QUINCK', '13x4.5', 'NYLON'})","frozenset({'2 VIAS', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,2
+309,"frozenset({'RAQ QUINCK', '13x4.5', 'EQUIPO TRANSFUSAO'})","frozenset({'NYLON', '2 VIAS'})",0.1,0.2,0.1,1.0,5.0,0.08,inf,0.8888888888888888,3,2
+310,"frozenset({'NYLON', '2 VIAS', 'EQUIPO TRANSFUSAO'})","frozenset({'RAQ QUINCK', '13x4.5'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,2
+311,"frozenset({'NYLON', '2 VIAS', '13x4.5'})","frozenset({'RAQ QUINCK', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,2
+312,"frozenset({'13x4.5', '2 VIAS', 'EQUIPO TRANSFUSAO'})","frozenset({'RAQ QUINCK', 'NYLON'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,2
+313,"frozenset({'NYLON', '13x4.5', 'EQUIPO TRANSFUSAO'})","frozenset({'RAQ QUINCK', '2 VIAS'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,2
+314,"frozenset({'RAQ QUINCK', '2 VIAS'})","frozenset({'NYLON', '13x4.5', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,3
+315,"frozenset({'RAQ QUINCK', 'NYLON'})","frozenset({'13x4.5', '2 VIAS', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,3
+316,"frozenset({'RAQ QUINCK', 'EQUIPO TRANSFUSAO'})","frozenset({'NYLON', '2 VIAS', '13x4.5'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,3
+317,"frozenset({'RAQ QUINCK', '13x4.5'})","frozenset({'NYLON', '2 VIAS', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,3
+318,"frozenset({'NYLON', '2 VIAS'})","frozenset({'RAQ QUINCK', '13x4.5', 'EQUIPO TRANSFUSAO'})",0.2,0.1,0.1,0.5,5.0,0.08,1.8,0.9999999999999998,2,3
+319,"frozenset({'2 VIAS', 'EQUIPO TRANSFUSAO'})","frozenset({'RAQ QUINCK', '13x4.5', 'NYLON'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,3
+320,"frozenset({'13x4.5', '2 VIAS'})","frozenset({'EQUIPO TRANSFUSAO', 'RAQ QUINCK', 'NYLON'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,3
+321,"frozenset({'NYLON', 'EQUIPO TRANSFUSAO'})","frozenset({'RAQ QUINCK', '2 VIAS', '13x4.5'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,3
+322,"frozenset({'NYLON', '13x4.5'})","frozenset({'RAQ QUINCK', '2 VIAS', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,3
+323,"frozenset({'13x4.5', 'EQUIPO TRANSFUSAO'})","frozenset({'RAQ QUINCK', '2 VIAS', 'NYLON'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,3
+324,frozenset({'RAQ QUINCK'}),"frozenset({'NYLON', '2 VIAS', '13x4.5', 'EQUIPO TRANSFUSAO'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,4
+325,frozenset({'2 VIAS'}),"frozenset({'EQUIPO TRANSFUSAO', 'RAQ QUINCK', '13x4.5', 'NYLON'})",0.2,0.1,0.1,0.5,5.0,0.08,1.8,0.9999999999999998,1,4
+326,frozenset({'EQUIPO TRANSFUSAO'}),"frozenset({'RAQ QUINCK', '2 VIAS', '13x4.5', 'NYLON'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,4
+327,frozenset({'13x4.5'}),"frozenset({'EQUIPO TRANSFUSAO', 'RAQ QUINCK', '2 VIAS', 'NYLON'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,4
+328,"frozenset({'PVC', '25x7', '30x7', '40x12'})",frozenset({'25x8'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,4,1
+329,"frozenset({'PVC', '25x7', '30x7', '25x8'})",frozenset({'40x12'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,4,1
+330,"frozenset({'PVC', '25x7', '40x12', '25x8'})",frozenset({'30x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,4,1
+331,"frozenset({'PVC', '30x7', '40x12', '25x8'})",frozenset({'25x7'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,4,1
+332,"frozenset({'25x7', '30x7', '40x12', '25x8'})",frozenset({'PVC'}),0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,4,1
+333,"frozenset({'PVC', '25x7', '30x7'})","frozenset({'25x8', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,2
+334,"frozenset({'PVC', '25x7', '40x12'})","frozenset({'30x7', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,2
+335,"frozenset({'PVC', '25x7', '25x8'})","frozenset({'30x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,2
+336,"frozenset({'PVC', '30x7', '40x12'})","frozenset({'25x7', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,2
+337,"frozenset({'PVC', '30x7', '25x8'})","frozenset({'25x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,2
+338,"frozenset({'PVC', '25x8', '40x12'})","frozenset({'25x7', '30x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,2
+339,"frozenset({'25x7', '30x7', '40x12'})","frozenset({'PVC', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,2
+340,"frozenset({'25x7', '30x7', '25x8'})","frozenset({'PVC', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,2
+341,"frozenset({'25x7', '25x8', '40x12'})","frozenset({'PVC', '30x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,2
+342,"frozenset({'30x7', '40x12', '25x8'})","frozenset({'PVC', '25x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,3,2
+343,"frozenset({'PVC', '25x7'})","frozenset({'30x7', '40x12', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,3
+344,"frozenset({'PVC', '30x7'})","frozenset({'25x7', '25x8', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,3
+345,"frozenset({'PVC', '40x12'})","frozenset({'25x7', '30x7', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,3
+346,"frozenset({'PVC', '25x8'})","frozenset({'25x7', '30x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,3
+347,"frozenset({'25x7', '30x7'})","frozenset({'PVC', '25x8', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,3
+348,"frozenset({'25x7', '40x12'})","frozenset({'PVC', '30x7', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,3
+349,"frozenset({'25x7', '25x8'})","frozenset({'PVC', '30x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,3
+350,"frozenset({'30x7', '40x12'})","frozenset({'PVC', '25x7', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,3
+351,"frozenset({'30x7', '25x8'})","frozenset({'PVC', '25x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,3
+352,"frozenset({'25x8', '40x12'})","frozenset({'PVC', '25x7', '30x7'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,2,3
+353,frozenset({'PVC'}),"frozenset({'25x7', '30x7', '40x12', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,4
+354,frozenset({'25x7'}),"frozenset({'PVC', '30x7', '40x12', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,4
+355,frozenset({'30x7'}),"frozenset({'PVC', '25x7', '40x12', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,4
+356,frozenset({'40x12'}),"frozenset({'PVC', '25x7', '30x7', '25x8'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,4
+357,frozenset({'25x8'}),"frozenset({'PVC', '25x7', '30x7', '40x12'})",0.1,0.1,0.1,1.0,10.0,0.09,inf,0.9999999999999999,1,4
